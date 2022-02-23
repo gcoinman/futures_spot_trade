@@ -2168,7 +2168,7 @@ if __name__ == '__main__':
     params = {'type': 'sell', 'operator_id': '2c917d26757a046e01757a0750a50001', 'operator_name': 'ly',
               'operate_type': '卖出', 'operate_page': '期现持仓', 'remote_address': '113.118.75.123', 'sell_ratio': '98',
               'sell_type': '最新价', 'sell_amount': 3, 'contract_size': 5, 'name': 'OKEx-LTC当季-LTC/USDT', 'exchange': 'OK',
-              'id': 29, 'account_name': '阙尚钦-OK01', 'account_id': 'queshangqin1', 'spot_balance': '0.00000001',
+              'id': 29, 'account_name': 'test', 'account_id': 'test', 'spot_balance': '0.00000001',
               'future_balance': '0.02066109', 'contract_type': 'quarter', 'buy_spot_amount': 0.0,
               'contract_positions_amount': 5.0, 'information': '开始卖出【OKEx-LTC当季-LTC/USDT】', 'log_type': 'info',
               'update_time': '2021-05-12 16:48:34', 'entrust_type': '合约'}
